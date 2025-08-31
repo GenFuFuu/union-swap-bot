@@ -9,7 +9,7 @@ A bot to automate testnet token swaps on Cosmos-based networks using Union Testn
    ```sh
    git clone https://github.com/KingTheAnalyst/UnionBOT.git
    cd union-swap-bot
- ```
+ ```z
 
 ### 2. Install dependencies
    Ensure you have Python installed, then install the required dependencies:
